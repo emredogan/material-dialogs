@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="normal_dialog">Normal Dialog</string>
+    <string name="confirmation_button">Confirmation Button</string>
+</resources>
